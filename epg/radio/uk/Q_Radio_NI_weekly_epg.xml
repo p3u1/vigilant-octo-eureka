@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv generator-info-name="weekly-epg-builder">
+  <channel id="qradio.ni">
+    <display-name>Q Radio (Northern Ireland)</display-name>
+    <display-name>Q Radio</display-name>
+  </channel>
+  <programme start="20251215000000 +0000" stop="20251215060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251215060000 +0000" stop="20251215100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251215130000 +0000" stop="20251215160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251215160000 +0000" stop="20251215190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251215220000 +0000" stop="20251216000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251216000000 +0000" stop="20251216060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251216060000 +0000" stop="20251216100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251216100000 +0000" stop="20251216130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251216130000 +0000" stop="20251216160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251216160000 +0000" stop="20251216190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251216190000 +0000" stop="20251216220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251216220000 +0000" stop="20251217000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251217000000 +0000" stop="20251217060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251217060000 +0000" stop="20251217100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251217100000 +0000" stop="20251217130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251217130000 +0000" stop="20251217160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251217160000 +0000" stop="20251217190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251217190000 +0000" stop="20251217220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251217220000 +0000" stop="20251218000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251218000000 +0000" stop="20251218060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251218060000 +0000" stop="20251218100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251218100000 +0000" stop="20251218130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251218130000 +0000" stop="20251218160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251218160000 +0000" stop="20251218190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251218190000 +0000" stop="20251218220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251218220000 +0000" stop="20251219000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251219000000 +0000" stop="20251219060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251219060000 +0000" stop="20251219100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251219100000 +0000" stop="20251219130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251219130000 +0000" stop="20251219160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251219160000 +0000" stop="20251219190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251219190000 +0000" stop="20251219220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251219220000 +0000" stop="20251220000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251220000000 +0000" stop="20251220070000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251220070000 +0000" stop="20251220100000 +0000" channel="qradio.ni">
+    <title lang="en">Conor Hogan</title>
+    <desc lang="en">A lively start to your weekend on Q Radio</desc>
+  </programme>
+  <programme start="20251220100000 +0000" stop="20251220140000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">Q Radio has your Saturday brunch sorted! Tune in for big tunes, light-hearted fun and competitions with Cushlá Rice.</desc>
+  </programme>
+  <programme start="20251220140000 +0000" stop="20251220180000 +0000" channel="qradio.ni">
+    <title lang="en">Tyree Patton</title>
+    <desc lang="en">Q Radio will make sure you have a great weekend! We've fun competitions, tunes, banter and more!</desc>
+  </programme>
+  <programme start="20251220180000 +0000" stop="20251220190000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio</title>
+  </programme>
+  <programme start="20251220190000 +0000" stop="20251220220000 +0000" channel="qradio.ni">
+    <title lang="en">Dance Anthems With Gareth Woods</title>
+    <desc lang="en">It's the best night of the week! Celebrate your weekend with Q Radio as we play the BIGGEST party songs!</desc>
+  </programme>
+  <programme start="20251220220000 +0000" stop="20251221000000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Dance Anthems Extra with Gerry Lavz</title>
+    <desc lang="en">House Party hits with Q Radio</desc>
+  </programme>
+  <programme start="20251221000000 +0000" stop="20251221070000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251221070000 +0000" stop="20251221100000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">Live across Northern Ireland every Sunday morning with fun competitions, funny stories and great music!</desc>
+  </programme>
+  <programme start="20251221100000 +0000" stop="20251221140000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">Chill out with Ibe Sesay on Sunday mornings with easy-going chat &amp; chilled out tunes. Get in touch via WhatsApp on 07702687001</desc>
+  </programme>
+  <programme start="20251221140000 +0000" stop="20251221180000 +0000" channel="qradio.ni">
+    <title lang="en">Gráinne McCoy</title>
+    <desc lang="en">Sunday afternoons done right with big chat, big tunes and big laughs.</desc>
+  </programme>
+  <programme start="20251221180000 +0000" stop="20251221220000 +0000" channel="qradio.ni">
+    <title lang="en">Olga Kaye</title>
+    <desc lang="en">Join Olga and wind down and get ready for a new week! Get in touch via WhatsApp on 07702687001</desc>
+  </programme>
+  <programme start="20251221220000 +0000" stop="20251222000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Showcasing home grown talent and featuring brand new songs to watch out for along with artist interviews.</desc>
+  </programme>
+</tv>
