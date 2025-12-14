@@ -1,0 +1,579 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tv generator-info-name="weekly-epg-builder">
+  <channel id="qradio.ni">
+    <display-name>Q Radio (Northern Ireland)</display-name>
+    <display-name>Q Radio</display-name>
+  <icon src="https://raw.githubusercontent.com/p3u1/vigilant-octo-eureka/main/logos/radio/uk/Q_Radio.png" /></channel>
+  <programme start="20251215000000 +0000" stop="20251215060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251215060000 +0000" stop="20251215100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251215130000 +0000" stop="20251215160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251215160000 +0000" stop="20251215190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251215220000 +0000" stop="20251216000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251216000000 +0000" stop="20251216060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251216060000 +0000" stop="20251216100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251216100000 +0000" stop="20251216130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251216130000 +0000" stop="20251216160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251216160000 +0000" stop="20251216190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251216190000 +0000" stop="20251216220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251216220000 +0000" stop="20251217000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251217000000 +0000" stop="20251217060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251217060000 +0000" stop="20251217100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251217100000 +0000" stop="20251217130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251217130000 +0000" stop="20251217160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251217160000 +0000" stop="20251217190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251217190000 +0000" stop="20251217220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251217220000 +0000" stop="20251218000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251218000000 +0000" stop="20251218060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251218060000 +0000" stop="20251218100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251218100000 +0000" stop="20251218130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251218130000 +0000" stop="20251218160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251218160000 +0000" stop="20251218190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251218190000 +0000" stop="20251218220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251218220000 +0000" stop="20251219000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251219000000 +0000" stop="20251219060000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251219060000 +0000" stop="20251219100000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Breakfast with Connor, Andrew &amp; Amy</title>
+    <desc lang="en">Wake up laughing with Connor, Andrew &amp; Amy</desc>
+  </programme>
+  <programme start="20251219100000 +0000" stop="20251219130000 +0000" channel="qradio.ni">
+    <title lang="en">Yasmin Zemmoura</title>
+    <desc lang="en">Yazz keeps listeners entertained throughout with her mix of engaging content, interviews and music variety.</desc>
+  </programme>
+  <programme start="20251219130000 +0000" stop="20251219160000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">The afternoon pick me up with Jordan's relaxed and interactive daytime show</desc>
+  </programme>
+  <programme start="20251219160000 +0000" stop="20251219190000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">A smooth ride home with Ibe with a show full of laughter, fun and music variety</desc>
+  </programme>
+  <programme start="20251219190000 +0000" stop="20251219220000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">The early evening show with Cushlá Rice</desc>
+  </programme>
+  <programme start="20251219220000 +0000" stop="20251220000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Keeping you company in the wee hours</desc>
+  </programme>
+  <programme start="20251220000000 +0000" stop="20251220070000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251220070000 +0000" stop="20251220100000 +0000" channel="qradio.ni">
+    <title lang="en">Conor Hogan</title>
+    <desc lang="en">A lively start to your weekend on Q Radio</desc>
+  </programme>
+  <programme start="20251220100000 +0000" stop="20251220140000 +0000" channel="qradio.ni">
+    <title lang="en">Cushlá Rice</title>
+    <desc lang="en">Q Radio has your Saturday brunch sorted! Tune in for big tunes, light-hearted fun and competitions with Cushlá Rice.</desc>
+  </programme>
+  <programme start="20251220140000 +0000" stop="20251220180000 +0000" channel="qradio.ni">
+    <title lang="en">Tyree Patton</title>
+    <desc lang="en">Q Radio will make sure you have a great weekend! We've fun competitions, tunes, banter and more!</desc>
+  </programme>
+  <programme start="20251220180000 +0000" stop="20251220190000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio</title>
+  </programme>
+  <programme start="20251220190000 +0000" stop="20251220220000 +0000" channel="qradio.ni">
+    <title lang="en">Dance Anthems With Gareth Woods</title>
+    <desc lang="en">It's the best night of the week! Celebrate your weekend with Q Radio as we play the BIGGEST party songs!</desc>
+  </programme>
+  <programme start="20251220220000 +0000" stop="20251221000000 +0000" channel="qradio.ni">
+    <title lang="en">Q Radio Dance Anthems Extra with Gerry Lavz</title>
+    <desc lang="en">House Party hits with Q Radio</desc>
+  </programme>
+  <programme start="20251221000000 +0000" stop="20251221070000 +0000" channel="qradio.ni">
+    <title lang="en">Q Thru The Night</title>
+  </programme>
+  <programme start="20251221070000 +0000" stop="20251221100000 +0000" channel="qradio.ni">
+    <title lang="en">Jordan Arnold</title>
+    <desc lang="en">Live across Northern Ireland every Sunday morning with fun competitions, funny stories and great music!</desc>
+  </programme>
+  <programme start="20251221100000 +0000" stop="20251221140000 +0000" channel="qradio.ni">
+    <title lang="en">Ibe Sesay</title>
+    <desc lang="en">Chill out with Ibe Sesay on Sunday mornings with easy-going chat &amp; chilled out tunes. Get in touch via WhatsApp on 07702687001</desc>
+  </programme>
+  <programme start="20251221140000 +0000" stop="20251221180000 +0000" channel="qradio.ni">
+    <title lang="en">Gráinne McCoy</title>
+    <desc lang="en">Sunday afternoons done right with big chat, big tunes and big laughs.</desc>
+  </programme>
+  <programme start="20251221180000 +0000" stop="20251221220000 +0000" channel="qradio.ni">
+    <title lang="en">Olga Kaye</title>
+    <desc lang="en">Join Olga and wind down and get ready for a new week! Get in touch via WhatsApp on 07702687001</desc>
+  </programme>
+  <programme start="20251221220000 +0000" stop="20251222000000 +0000" channel="qradio.ni">
+    <title lang="en">Georgia Taggart</title>
+    <desc lang="en">Showcasing home grown talent and featuring brand new songs to watch out for along with artist interviews.</desc>
+  </programme>
+<channel id="downtown.radio">
+    <display-name>Downtown Radio</display-name>
+    <url>https://www.hellorayo.co.uk/downtown</url>
+  </channel>
+  <programme start="20251215060000 +0000" stop="20251215100000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Breakfast with Gary &amp; Glen</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215130000 +0000" channel="downtown.radio">
+    <title lang="en">Declan Wilson</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251215130000 +0000" stop="20251215160000 +0000" channel="downtown.radio">
+    <title lang="en">Owen Larkin</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251215160000 +0000" stop="20251215190000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Drive</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="downtown.radio">
+    <title lang="en">Kirstie McMurray</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251215220000 +0000" stop="20251216060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251216060000 +0000" stop="20251216100000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Breakfast with Gary &amp; Glen</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251216100000 +0000" stop="20251216130000 +0000" channel="downtown.radio">
+    <title lang="en">Declan Wilson</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251216130000 +0000" stop="20251216160000 +0000" channel="downtown.radio">
+    <title lang="en">Owen Larkin</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251216160000 +0000" stop="20251216190000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Drive</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251216190000 +0000" stop="20251216220000 +0000" channel="downtown.radio">
+    <title lang="en">Kirstie McMurray</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251216220000 +0000" stop="20251217060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251217060000 +0000" stop="20251217100000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Breakfast with Gary &amp; Glen</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251217100000 +0000" stop="20251217130000 +0000" channel="downtown.radio">
+    <title lang="en">Declan Wilson</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251217130000 +0000" stop="20251217160000 +0000" channel="downtown.radio">
+    <title lang="en">Owen Larkin</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251217160000 +0000" stop="20251217190000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Drive</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251217190000 +0000" stop="20251217220000 +0000" channel="downtown.radio">
+    <title lang="en">Kirstie McMurray</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251217220000 +0000" stop="20251218060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251218060000 +0000" stop="20251218100000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Breakfast with Gary &amp; Glen</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251218100000 +0000" stop="20251218130000 +0000" channel="downtown.radio">
+    <title lang="en">Declan Wilson</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251218130000 +0000" stop="20251218160000 +0000" channel="downtown.radio">
+    <title lang="en">Owen Larkin</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251218160000 +0000" stop="20251218190000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Drive</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251218190000 +0000" stop="20251218220000 +0000" channel="downtown.radio">
+    <title lang="en">Kirstie McMurray</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251218220000 +0000" stop="20251219060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251219060000 +0000" stop="20251219100000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Breakfast with Gary &amp; Glen</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251219100000 +0000" stop="20251219130000 +0000" channel="downtown.radio">
+    <title lang="en">Declan Wilson</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251219130000 +0000" stop="20251219160000 +0000" channel="downtown.radio">
+    <title lang="en">Owen Larkin</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251219160000 +0000" stop="20251219190000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Drive</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251219190000 +0000" stop="20251219220000 +0000" channel="downtown.radio">
+    <title lang="en">Kirstie McMurray</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251219220000 +0000" stop="20251220060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251220060000 +0000" stop="20251220100000 +0000" channel="downtown.radio">
+    <title lang="en">Peter Flanagan</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251220100000 +0000" stop="20251220130000 +0000" channel="downtown.radio">
+    <title lang="en">Paul Orr</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251220130000 +0000" stop="20251220160000 +0000" channel="downtown.radio">
+    <title lang="en">Owen Beers</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251220160000 +0000" stop="20251220190000 +0000" channel="downtown.radio">
+    <title lang="en">Sean McKeown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251220190000 +0000" stop="20251220220000 +0000" channel="downtown.radio">
+    <title lang="en">Downtown Anthems</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251220220000 +0000" stop="20251221060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221060000 +0000" stop="20251221100000 +0000" channel="downtown.radio">
+    <title lang="en">Kirstie &amp; Coley</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221100000 +0000" stop="20251221120000 +0000" channel="downtown.radio">
+    <title lang="en">Easy Sunday</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="downtown.radio">
+    <title lang="en">Paul Orr</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221130000 +0000" stop="20251221160000 +0000" channel="downtown.radio">
+    <title lang="en">Neal McClelland</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221160000 +0000" stop="20251221190000 +0000" channel="downtown.radio">
+    <title lang="en">Decky The Halls</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221190000 +0000" stop="20251221220000 +0000" channel="downtown.radio">
+    <title lang="en">Hannah Kirkpatrick</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+  <programme start="20251221220000 +0000" stop="20251222060000 +0000" channel="downtown.radio">
+    <title lang="en">All Night Downtown</title>
+    <desc lang="en">Weekly schedule (repeats every week).</desc>
+  </programme>
+<channel id="coolfm.ni">
+    <display-name>Cool FM (Northern Ireland)</display-name>
+    <display-name lang="en">Cool FM</display-name>
+    <url>https://www.hellorayo.co.uk/cool-fm</url>
+  <icon src="https://raw.githubusercontent.com/p3u1/vigilant-octo-eureka/main/logos/radio/uk/Cool_FM_HDR.png" /></channel>
+  <programme start="20251215000000 +0000" stop="20251215010000 +0000" channel="coolfm.ni">
+    <title lang="en">Ashleigh Coyle</title>
+  </programme>
+  <programme start="20251215010000 +0000" stop="20251215060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251215060000 +0000" stop="20251215100000 +0000" channel="coolfm.ni">
+    <title lang="en">Pete Snodden in the Morning</title>
+  </programme>
+  <programme start="20251215100000 +0000" stop="20251215110000 +0000" channel="coolfm.ni">
+    <title lang="en">Top 10 @ 10</title>
+  </programme>
+  <programme start="20251215110000 +0000" stop="20251215130000 +0000" channel="coolfm.ni">
+    <title lang="en">Paul Kennedy</title>
+  </programme>
+  <programme start="20251215130000 +0000" stop="20251215160000 +0000" channel="coolfm.ni">
+    <title lang="en">Afternoons with Curtis McCosh</title>
+  </programme>
+  <programme start="20251215160000 +0000" stop="20251215190000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Drive with John Kearns</title>
+  </programme>
+  <programme start="20251215190000 +0000" stop="20251215220000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Evenings with Hix</title>
+  </programme>
+  <programme start="20251215220000 +0000" stop="20251215230000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251215230000 +0000" stop="20251216000000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Goes Quiet</title>
+  </programme>
+  <programme start="20251216000000 +0000" stop="20251216010000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251216010000 +0000" stop="20251216060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251216060000 +0000" stop="20251216100000 +0000" channel="coolfm.ni">
+    <title lang="en">Pete Snodden in the Morning</title>
+  </programme>
+  <programme start="20251216100000 +0000" stop="20251216110000 +0000" channel="coolfm.ni">
+    <title lang="en">Top 10 @ 10</title>
+  </programme>
+  <programme start="20251216110000 +0000" stop="20251216130000 +0000" channel="coolfm.ni">
+    <title lang="en">Paul Kennedy</title>
+  </programme>
+  <programme start="20251216130000 +0000" stop="20251216160000 +0000" channel="coolfm.ni">
+    <title lang="en">Afternoons with Curtis McCosh</title>
+  </programme>
+  <programme start="20251216160000 +0000" stop="20251216190000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Drive with John Kearns</title>
+  </programme>
+  <programme start="20251216190000 +0000" stop="20251216220000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Evenings with Hix</title>
+  </programme>
+  <programme start="20251216220000 +0000" stop="20251216230000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251216230000 +0000" stop="20251217000000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Goes Quiet</title>
+  </programme>
+  <programme start="20251217000000 +0000" stop="20251217010000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251217010000 +0000" stop="20251217060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251217060000 +0000" stop="20251217100000 +0000" channel="coolfm.ni">
+    <title lang="en">Pete Snodden in the Morning</title>
+  </programme>
+  <programme start="20251217100000 +0000" stop="20251217110000 +0000" channel="coolfm.ni">
+    <title lang="en">Top 10 @ 10</title>
+  </programme>
+  <programme start="20251217110000 +0000" stop="20251217130000 +0000" channel="coolfm.ni">
+    <title lang="en">Paul Kennedy</title>
+  </programme>
+  <programme start="20251217130000 +0000" stop="20251217160000 +0000" channel="coolfm.ni">
+    <title lang="en">Afternoons with Curtis McCosh</title>
+  </programme>
+  <programme start="20251217160000 +0000" stop="20251217190000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Drive with John Kearns</title>
+  </programme>
+  <programme start="20251217190000 +0000" stop="20251217220000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Evenings with Hix</title>
+  </programme>
+  <programme start="20251217220000 +0000" stop="20251217230000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251217230000 +0000" stop="20251218000000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Goes Quiet</title>
+  </programme>
+  <programme start="20251218000000 +0000" stop="20251218010000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251218010000 +0000" stop="20251218060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251218060000 +0000" stop="20251218100000 +0000" channel="coolfm.ni">
+    <title lang="en">Pete Snodden in the Morning</title>
+  </programme>
+  <programme start="20251218100000 +0000" stop="20251218110000 +0000" channel="coolfm.ni">
+    <title lang="en">Top 10 @ 10</title>
+  </programme>
+  <programme start="20251218110000 +0000" stop="20251218130000 +0000" channel="coolfm.ni">
+    <title lang="en">Paul Kennedy</title>
+  </programme>
+  <programme start="20251218130000 +0000" stop="20251218160000 +0000" channel="coolfm.ni">
+    <title lang="en">Afternoons with Curtis McCosh</title>
+  </programme>
+  <programme start="20251218160000 +0000" stop="20251218190000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Drive with John Kearns</title>
+  </programme>
+  <programme start="20251218190000 +0000" stop="20251218220000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Evenings with Hix</title>
+  </programme>
+  <programme start="20251218220000 +0000" stop="20251218230000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251218230000 +0000" stop="20251219000000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Goes Quiet</title>
+  </programme>
+  <programme start="20251219000000 +0000" stop="20251219010000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa Riddell</title>
+  </programme>
+  <programme start="20251219010000 +0000" stop="20251219060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251219060000 +0000" stop="20251219080000 +0000" channel="coolfm.ni">
+    <title lang="en">Pete Snodden in the Morning</title>
+  </programme>
+  <programme start="20251219080000 +0000" stop="20251219100000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool FM Christmas Takeover</title>
+  </programme>
+  <programme start="20251219100000 +0000" stop="20251219110000 +0000" channel="coolfm.ni">
+    <title lang="en">Top 10 @ 10</title>
+  </programme>
+  <programme start="20251219110000 +0000" stop="20251219130000 +0000" channel="coolfm.ni">
+    <title lang="en">Paul Kennedy</title>
+  </programme>
+  <programme start="20251219130000 +0000" stop="20251219160000 +0000" channel="coolfm.ni">
+    <title lang="en">Ryan A</title>
+  </programme>
+  <programme start="20251219160000 +0000" stop="20251219190000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Drive with John Kearns</title>
+  </programme>
+  <programme start="20251219190000 +0000" stop="20251219220000 +0000" channel="coolfm.ni">
+    <title lang="en">Elevate with Hix</title>
+  </programme>
+  <programme start="20251219220000 +0000" stop="20251220000000 +0000" channel="coolfm.ni">
+    <title lang="en">Franky Mac</title>
+  </programme>
+  <programme start="20251220000000 +0000" stop="20251220010000 +0000" channel="coolfm.ni">
+    <title lang="en">Franky Mac</title>
+  </programme>
+  <programme start="20251220010000 +0000" stop="20251220060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251220060000 +0000" stop="20251220100000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa &amp; Curtis</title>
+  </programme>
+  <programme start="20251220100000 +0000" stop="20251220120000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Saturday Show</title>
+  </programme>
+  <programme start="20251220120000 +0000" stop="20251220130000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool FM Christmas Takeover</title>
+  </programme>
+  <programme start="20251220130000 +0000" stop="20251220140000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Saturday Show</title>
+  </programme>
+  <programme start="20251220140000 +0000" stop="20251220180000 +0000" channel="coolfm.ni">
+    <title lang="en">Ryan A</title>
+  </programme>
+  <programme start="20251220180000 +0000" stop="20251220220000 +0000" channel="coolfm.ni">
+    <title lang="en">Elevate with Hix</title>
+  </programme>
+  <programme start="20251220220000 +0000" stop="20251221000000 +0000" channel="coolfm.ni">
+    <title lang="en">Evanna Maxted</title>
+  </programme>
+  <programme start="20251221000000 +0000" stop="20251221010000 +0000" channel="coolfm.ni">
+    <title lang="en">Evanna Maxted</title>
+  </programme>
+  <programme start="20251221010000 +0000" stop="20251221041500 +0000" channel="coolfm.ni">
+    <title lang="en">The GBXperience NI</title>
+  </programme>
+  <programme start="20251221041500 +0000" stop="20251221060000 +0000" channel="coolfm.ni">
+    <title lang="en">Cool Overnight</title>
+  </programme>
+  <programme start="20251221060000 +0000" stop="20251221100000 +0000" channel="coolfm.ni">
+    <title lang="en">Melissa &amp; Curtis</title>
+  </programme>
+  <programme start="20251221100000 +0000" stop="20251221120000 +0000" channel="coolfm.ni">
+    <title lang="en">The Cool Years</title>
+  </programme>
+  <programme start="20251221120000 +0000" stop="20251221130000 +0000" channel="coolfm.ni">
+    <title lang="en">Owen Beers</title>
+  </programme>
+  <programme start="20251221130000 +0000" stop="20251221160000 +0000" channel="coolfm.ni">
+    <title lang="en">Ryan A</title>
+  </programme>
+  <programme start="20251221160000 +0000" stop="20251221190000 +0000" channel="coolfm.ni">
+    <title lang="en">NI Hit 40</title>
+  </programme>
+  <programme start="20251221190000 +0000" stop="20251221220000 +0000" channel="coolfm.ni">
+    <title lang="en">Katharine Walker</title>
+  </programme>
+  <programme start="20251221220000 +0000" stop="20251222000000 +0000" channel="coolfm.ni">
+    <title lang="en">Ashleigh Coyle</title>
+  </programme>
+</tv>
