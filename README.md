@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-actively%20maintained-brightgreen)
+![IPTV](https://img.shields.io/badge/type-IPTV%20Radio-blue)
+![EPG](https://img.shields.io/badge/EPG-Custom%20XMLTV-orange)
+![Logos](https://img.shields.io/badge/Logos-Hi--Res%20EPG-purple)
+![Updated](https://img.shields.io/github/last-commit/p3u1/vigilant-octo-eureka)
 # 📡 vigilant-octo-eureka
 
 **Hosted IPTV-related EPGs, Logos & M3U playlists**
