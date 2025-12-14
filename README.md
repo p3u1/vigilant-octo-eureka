@@ -91,4 +91,7 @@ If a stream breaks or an EPG needs correction, open an issue.
 
 Licensed under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**.
 
-© 2025 Your Name / Repo
+© 2025 Paul Kennedy / https://github.com/p3u1/vigilant-octo-eureka/
+
+
+
