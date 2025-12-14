@@ -86,3 +86,9 @@ If a stream breaks or an EPG needs correction, open an issue.
 ---
 
 📻 Built with care for the UK radio & IPTV community.
+
+## License
+
+Licensed under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**.
+
+© 2025 Your Name / Repo
